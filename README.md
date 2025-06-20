@@ -7,9 +7,8 @@ Artificial intelligence for Subway Surfers game
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/shrankhalalala/Subway-Surfers-AI.git
     ```
-    (Replace `<repository_url>` with the actual URL of this repository)
 
 2.  **Navigate to the project directory:**
     ```bash
